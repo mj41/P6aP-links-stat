@@ -33,7 +33,7 @@ echo "</head>"
 echo "<body>"
 
 echo "<br />"
-echo "<a href=\"http://perl6.cz/wiki/Perl_6_and_Parrot_links\">Perl 6 and Parrot links</a> statistics"
+echo '<a href="http://perl6.cz/wiki/Perl_6_and_Parrot_links">Perl 6 and Parrot links</a> statistics'
 
 echo "<pre>"
 
@@ -76,7 +76,7 @@ done
 echo "</pre>"
 
 echo '<a href="./data">Data</a><br>'
-echo '<a href="https://github.com/mj41/Perl-6-GD">Source code on GitHub</a><br>'
+echo '<a href="https://github.com/mj41/P6aP-links-stat">Source code on GitHub</a><br>'
 
 echo "</body>"
 echo "</html>"
