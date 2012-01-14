@@ -1,0 +1,4 @@
+Allow from all
+Options Indexes FollowSymLinks -ExecCGI
+
+RemoveHandler .pl .cgi .php .php5 .phtml .sh

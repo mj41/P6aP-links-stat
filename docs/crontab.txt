@@ -1,0 +1,3 @@
+# P6aP-links stats
+30 06,17 * * * jurosz /home/jurosz/dalsi/P6aP-links/gen.sh /home/jurosz/dalsi/P6aP-links/data 1 &>/home/jurosz/dalsi/P6aP-links/stats.html
+
